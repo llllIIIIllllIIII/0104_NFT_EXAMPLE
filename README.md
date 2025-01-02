@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# 0104_NFT_EXAMPLE
 =======
 # Sample Hardhat Project
 
